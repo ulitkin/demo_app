@@ -17,6 +17,9 @@ gem 'coffee-rails', '4.0.1'
 # See https://github.com/sstephenson/execjs#readme for more supported runtimes
 # gem 'therubyracer',  platforms: :ruby
 
+#ExecJS::RuntimeError in Users#index (RoR)
+#gem 'therubyracer', '0.12.1'
+
 # Use jquery as the JavaScript library
 gem 'jquery-rails', '3.0.4'
 
